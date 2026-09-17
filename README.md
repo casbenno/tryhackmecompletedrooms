@@ -764,7 +764,7 @@ I will update this section as I complete rooms.
 <!-- - [TryHackMe | Advent of Cyber 2022](https://tryhackme.com/room/adventofcyber4) -->
 <!-- - [TryHackMe | Advent of Cyber 2023](https://tryhackme.com/room/adventofcyber2023) -->
 <!-- - [TryHackMe | Advent of Cyber 2024](https://tryhackme.com/r/room/adventofcyber2024) -->
-- [TryHackMe | Advent of Cyber 2025] https://tryhackme.com/module/aoc-2025-kra8blxfpajw0vn6
+- [TryHackMe | Advent of Cyber 2025](https://tryhackme.com/module/aoc-2025-kra8blxfpajw0vn6)
 <!-- - [TryHackMe | Advent of Cyber '23 Side Quest](https://tryhackme.com/room/adventofcyber23sidequest) -->
 <!-- - [TryHackMe | Cyber Scotland 2021](https://tryhackme.com/room/cyberweek2021) -->
 <!-- - [TryHackMe | Hacker of the Hill #1](https://tryhackme.com/room/hackerofthehill) -->
@@ -772,8 +772,3 @@ I will update this section as I complete rooms.
 <!-- - [TryHackMe | Learn and win prizes #2](https://tryhackme.com/room/tickets2) -->
 
 ---
-
-
-
-- [x] [TryHackMe | Example Room](https://tryhackme.com/room/example)
-```
