@@ -10,7 +10,7 @@ My personal TryHackMe room tracker.
 
 I will update this section as I complete rooms.
 
-- Completed: `1`
+- Completed: `9`
 - Total listed in source: `395+`
 
 ---
