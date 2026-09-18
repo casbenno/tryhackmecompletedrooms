@@ -10,7 +10,7 @@ My personal TryHackMe room tracker.
 
 I will update this section as I complete rooms.
 
-- Completed: `9`
+- Completed: `10`
 - Total listed in source: `395+`
 
 ---
@@ -102,7 +102,7 @@ I will update this section as I complete rooms.
 <!-- - [TryHackMe | Network Traffic Basics](https://tryhackme.com/room/networktrafficbasics) -->
 <!-- - [TryHackMe | Network Security Essentials](https://tryhackme.com/room/networksecurityessentials) -->
 <!-- - [TryHackMe | Network Discovery Detection](https://tryhackme.com/room/networkdiscoverydetection) -->
-<!-- - [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking) -->
+- [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
 <!-- - [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking) -->
 <!-- - [TryHackMe | Networking](https://tryhackme.com/room/bpnetworking) -->
 <!-- - ~~[TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan)~~ -- TryHackMe made this room **PREMIUM**. Try using [this deep](https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d\:the-internet) Khan Academy resource, it's excellent trust me! -->
